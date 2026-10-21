@@ -128,7 +128,7 @@ El Sprint 3 tiene 75 h disponibles (semanas 12 a 16). Las 53 h caben y **sobran 
 Cada perfil coincide con el rol del equipo en `ACUERDO.md`:
 - Elisa es la investigadora, así que trabaja el contenido.
 - Yaretzy es la documentadora y eduScrum Master del Sprint 3, así que lleva calidad y el tablero.
-- Daisy es la responsable del Backlog y Diego coordinó el Sprint 1; los dos llevan el desarrollo.
+- Daisy es la responsable del Backlog y Diego coordinó el Sprint 1; los dos llevan el desarrollo
 
 ### 4.2 Tareas del Sprint 3
 
