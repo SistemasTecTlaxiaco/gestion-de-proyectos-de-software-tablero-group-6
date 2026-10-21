@@ -187,7 +187,7 @@ Con esta asignación nadie pasa del 75 % de su capacidad y la diferencia entre q
 
 ---
 
-## 6. Texto de los issues (para copiar y pegar)
+
 
 ### Issue: HU-01 Consultar palabras y expresiones
 
@@ -269,7 +269,7 @@ j del Sprint 2 = 5 / 5 = 1.00
 | HU-05 Validar contenido | Como persona responsable de revisar contenidos comunitarios, quiero validar las aportaciones antes de su publicación, para ayudar a mantener información correcta y confiable. | 19 (12 / 18 / 30) | 5 | 6 | 30 h | $4,800 | j = 0.83. Mientras no exista, el Comité valida fuera de la plataforma |
 | HU-06 Pronunciación asociada al término | Como usuario de la plataforma, quiero escuchar pronunciaciones asociadas a las palabras registradas, para mejorar mi aprendizaje de la lengua materna. | 8 (4 / 8 / 12) | 4 | 5 | 17 h | $2,850 | j = 0.80. Reutiliza el reproductor de HU-02 |
 
-Copien los criterios de aceptación de cada historia del Acta, secciones 7 a 10.
+
 
 ### Issue: T1 a T11 (una por tarea)
 
