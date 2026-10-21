@@ -84,7 +84,7 @@ Las horas de **prevención y corrección se copian tal cual** de `COSTO-CALIDAD-
 **Supuestos:**
 - Tarifa de $150 MXN por hora, la misma del Sprint 2.
 - 4 personas × 5 h × 75 % = 15 h por semana.
-- Reserva del 15 %, por dos riesgos altos: R1 (pocos hablantes disponibles) y R2 (falla de conectividad en Cuquila).
+- Reserva del 15 %, por dos riesgos altos: R1 (pocos hablantes disponibles) y R2 (falla de conectividad en Cuquila)
 
 ### 3.1 Por historia
 
