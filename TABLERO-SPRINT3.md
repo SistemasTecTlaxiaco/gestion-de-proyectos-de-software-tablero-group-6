@@ -8,7 +8,7 @@ Este documento tiene todo lo que va en el tablero: la estructura, los campos, la
 
 ---
 
-## 1. Estructura del tablero
+## 1. Estructura del tablero.
 
 ### 1.1 Columnas (campo *Status*)
 
