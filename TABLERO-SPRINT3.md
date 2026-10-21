@@ -323,4 +323,4 @@ Copien la tabla 3.2, el resumen de capacidad, la carga por integrante (4.3) y lo
 - [ ] Issue de la reserva y issue [PLAN]
 - [ ] Vista Estimación agrupada por Iteración, con la suma mostrando **53 h** en el Sprint 3
 - [ ] Vista Carga del equipo agrupada por *Assignees*
-- [ ] Al menos un movimiento real de tarjetas (por ejemplo T1 y T6 en In Progress) para mostrar que el tablero se usa
+- [ ] Al menos un movimiento real de tarjeta
